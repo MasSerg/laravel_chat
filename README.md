@@ -1,4 +1,4 @@
-# INSTALL
+# INSTALL )
 
 create database & edit .env
 
