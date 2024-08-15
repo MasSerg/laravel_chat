@@ -18,6 +18,13 @@
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+
+    <style>
+        .home-header {
+            font-size: 18pt;
+            font-weight: bold;
+        }
+    </style>
 </head>
 <body>
     <div id="app">
